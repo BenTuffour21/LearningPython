@@ -1,0 +1,5 @@
+print("Black Panther\n")
+print("Jurassic Park\n")
+print("End Game\n")
+print("Bee Movie\n")
+print("Shrek\n")
