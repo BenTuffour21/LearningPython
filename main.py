@@ -1,11 +1,4 @@
-adj1 = " big"
-adj2 = " blue"
-adj3 = " fast"
-adj4 = " scary"
-adj5 = " huge"
-noun1 = " dog"
-noun2 = " house. "
-noun3 = " car"
-noun4 = " man"
-noun5 = " rep."
-print("The" + adj1 + noun1 + " ran into the" + adj2 + noun2 + "The" + adj3 + noun3 + " drove past the" + adj4 + noun4 + " with a" + adj5 + noun5)
+def addTwoNumbers(x,y):
+    return x + y
+
+print(addTwoNumbers(5,7))
